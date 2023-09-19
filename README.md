@@ -18,11 +18,13 @@ Welcome to our Social Media Web App project named MingleZone! This web applicati
 
 - CSS: Styling and layout of the web app.
 
+- bootstrap: Ready to use css style for many components and tools that help in making the webpages responsive.
+
 - JavaScript: Functionality and interactivity of the application.
 
 - PHP: The backend that allows fetching and updating data from the database
 
-- SQL (MySql) : The database where the data of the application is saved
+- SQL (MySql): The database where the data of the application is saved
 
 ## Get the app on your local machine
 
